@@ -1,0 +1,17 @@
+header {
+    background: #f7913d;
+    border-bottom-right-radius: 50%;
+}
+
+img#logo {
+    width: 37%;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-size: 1.3em;
+}
+
+li a {
+    color: white;
+}
