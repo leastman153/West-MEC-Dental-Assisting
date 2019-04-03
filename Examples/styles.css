@@ -1,6 +1,10 @@
+body {
+    background: url(chair.jpg);
+    background-size: cover
+}
+
 header {
     background: #f7913d;
-    border-bottom-right-radius: 50%;
 }
 
 img#logo {
